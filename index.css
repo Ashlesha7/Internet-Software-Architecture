@@ -1,0 +1,134 @@
+/* Reset styles */
+* {
+    margin: 0;
+    background-color: rgb(240, 236, 236);
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e9e0e0;
+    padding: 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .logo h1 {
+    margin: 0 0 0 10px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    margin: 0 10px;
+    list-style-type: none;
+  }
+  
+  nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  nav a:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  section  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+
+  }
+  button {
+    border:3px solid black;
+    background-color: rgb(218, 216, 208);
+    color: rgb(14, 16, 17);
+    margin-left: 700px;
+    padding: 25px;
+    width: 30px;
+    margin-top: 50px;
+    width:fit-content;
+  }
+  h2 {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: x-large;
+  }
+  p {
+    margin-left: 990px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+  }
+  .menu-item1 img {
+    width: 700px;
+    height: 400px;
+  }
+  .menu-item2 img{
+    width: 700px;
+    height: 400px
+  }
+  .menu-item3 img{
+    width: 700px;
+    height: 400px;
+  }
+  .menu-item4 img{
+    width: 700px;
+    height: 400px;
+  }
+  .menu-item5 img{
+    width: 700px;
+    height: 400px;
+  }
+  p {
+    text-align: right;
+    font-size: 30px;
+    margin-left: 300px;
+
+  }
+  section1 img{
+    width: 99vw;
+  }
+  .menu-comtainer {
+    display: flex;
+  }
+  p1 {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+
+  
+ 
